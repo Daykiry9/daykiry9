@@ -1,0 +1,24 @@
+2025-Jun-01 19:20:35 : Preliminaries complete. Initiating ETL process.
+2025-Jun-01 19:20:35 : Starting data extraction.
+2025-Jun-01 19:20:38 : Data extraction complete.
+2025-Jun-01 19:20:38 : Extraction complete.
+2025-Jun-01 19:20:38 : Starting data transformation.
+2025-Jun-01 19:20:38 : Data transformation complete.
+2025-Jun-01 19:20:38 : Transformation complete.
+2025-Jun-01 19:20:38 : Attempting to load data to CSV: C:\Users\PC\Documents\Python course\Project2\Largest_banks_data.csv.
+2025-Jun-01 19:20:38 : Data successfully loaded to CSV: C:\Users\PC\Documents\Python course\Project2\Largest_banks_data.csv
+2025-Jun-01 19:20:38 : Load to CSV phase complete.
+2025-Jun-01 19:20:38 : Starting database connection and load process.
+2025-Jun-01 19:20:38 : Database connection established to: C:\Users\PC\Documents\Python course\Project2\Banks.db
+2025-Jun-01 19:20:38 : Starting data load to database table: Largest_banks.
+2025-Jun-01 19:20:38 : Data successfully loaded to database table: Largest_banks
+2025-Jun-01 19:20:38 : Load to Database phase complete.
+2025-Jun-01 19:20:38 : Starting database querying phase.
+2025-Jun-01 19:20:38 : Executing query: SELECT * FROM Largest_banks
+2025-Jun-01 19:20:38 : Query executed successfully: SELECT * FROM Largest_banks
+2025-Jun-01 19:20:38 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2025-Jun-01 19:20:38 : Query executed successfully: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2025-Jun-01 19:20:38 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2025-Jun-01 19:20:38 : Query executed successfully: SELECT Name from Largest_banks LIMIT 5
+2025-Jun-01 19:20:38 : Database querying phase complete.
+2025-Jun-01 19:20:38 : Database connection closed.

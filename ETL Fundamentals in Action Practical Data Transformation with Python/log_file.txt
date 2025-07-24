@@ -1,0 +1,22 @@
+2025-Jun-01-15:47:33,ETL Job Started
+2025-Jun-01-15:47:33,Extract phase Started
+2025-Jun-01-15:54:07,ETL Job Started
+2025-Jun-01-15:54:07,Extract phase Started
+2025-Jun-01-15:54:48,ETL Job Started
+2025-Jun-01-15:54:48,Extract phase Started
+2025-Jun-01-15:57:09,ETL Job Started
+2025-Jun-01-15:57:09,Extract phase Started
+2025-06-01 15:58:07,434 - INFO - Inicio del Proceso ETL.
+2025-06-01 15:58:07,434 - INFO - Fase de Extracción iniciada.
+2025-06-01 15:58:07,437 - INFO - Iniciando fase de Extracción.
+2025-06-01 15:58:07,439 - INFO - Fase de Extracción completada.
+2025-06-01 15:58:07,439 - INFO - Fase de Extracción finalizada.
+2025-06-01 15:58:07,440 - INFO - Fase de Transformación iniciada.
+2025-06-01 15:58:07,440 - INFO - Iniciando fase de Transformación.
+2025-06-01 15:58:07,441 - INFO - Fase de Transformación completada.
+2025-06-01 15:58:07,441 - INFO - Fase de Transformación finalizada.
+2025-06-01 15:58:07,442 - INFO - Fase de Carga iniciada.
+2025-06-01 15:58:07,442 - INFO - Iniciando fase de Carga.
+2025-06-01 15:58:07,445 - INFO - Datos cargados exitosamente en: transformed_data.csv
+2025-06-01 15:58:07,445 - INFO - Fase de Carga finalizada.
+2025-06-01 15:58:07,445 - INFO - Proceso ETL completado exitosamente.
